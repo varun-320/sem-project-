@@ -1,0 +1,85 @@
+html {
+    height: 350px;
+}
+body {
+    padding: 0px;
+    margin: 0px;
+    background: #f0f0f0;
+    height: 350px;
+}
+#plugin_name {
+    width: 330px;
+    margin: 0 auto;
+    background-color: #8b6712;
+}
+h2 {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+h1 {
+    font-family: 'Russo One', sans-serif;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+}
+.rounded-circle {
+    background: #7a93c5;
+    width: 10rem;
+    height: 10rem;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px auto;
+}
+#site_score {
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgba(210, 10, 10, 0.901);
+    font-weight: bold;
+    text-align: center;
+    font-size: 70px;
+}
+#site_msg {
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 2px;
+    padding: 5px 10px;
+    color: #fff;
+    border-radius: 50px; /* Makes the container oval */
+}
+
+.feature-container {
+    background: #195975;
+    border-radius: 25px;
+    padding: 10px;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+a {
+    text-align: center;
+    display: block;
+    color: #195975;
+    margin-top: 10px;
+}
